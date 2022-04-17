@@ -1,0 +1,19 @@
+body {
+  margin: 7%;
+  font-family: "Nanum Gothic", sans-serif;
+  background-color: #1bca95;
+}
+
+.question-heading-list-filtering {
+  margin-left: 4%;
+  font-family: "Nanum Gothic", sans-serif;
+  width: 600px;
+}
+
+.question-answer-list-filtering {
+  font-size: larger;
+  background-color: rgba(9, 142, 111, 0.936);
+  border-radius: 25px;
+  width: 400px;
+  padding: 50px 55px;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>codewars.com - List Filtering</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Q.<span class="question-heading-list-filtering">List Filtering</span></h1>
+    <div class="question-answer-list-filtering">
+      <code>
+        function filter_list(arr) {
+        </br>// Return a new array with the strings filtered out 
+        </br>return arr.filter(function (e) { 
+        </br>// return typeof e !== 'string'; 
+        </br>return typeof e === "number"; 
+        </br>}); 
+        </br>} 
+        </br>const test_Arr1 = [1, 2, "aasf", "1", "123", 123]; 
+        </br>console.log(filter_list(test_Arr1)); 
+        </br>const test_Arr2 = [1, "a", -4, "b", 0, 9, -15];
+        </br>console.log(filter_list(test_Arr2));
+      </code>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
