@@ -1,1 +1,1 @@
-codewars.com solutions
+Based on JavaScript
