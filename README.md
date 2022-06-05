@@ -1,8 +1,9 @@
 <div align = "center">
     <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
+    <span color="red">codewars.com</span>
 </div>
 
-# <p color="red">codewars.com</p>
+<!-- # <p color="red">codewars.com</p> -->
 
 ### <div>Using <span color = "yellow">JavaScript</span> & <span color = "#3498db">TypeScript</span></div>
 
