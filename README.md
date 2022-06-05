@@ -1,6 +1,6 @@
 # <p color="red">codewars.com</p>
 
-### <div>Using <p color = "yellow">JavaScript</p>&<p color = "#3498db">TypeScript</p></div>
+### <div>Using <span color = "yellow">JavaScript</span>&<span color = "#3498db">TypeScript</span></div>
 
 ### <p color="greenyellow">Based on TypeScript</p>
 
