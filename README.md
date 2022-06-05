@@ -1,4 +1,6 @@
-# <p color="red"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/>codewars.com</p>
+<img align = "center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 200 height = 200/>
+
+# <p color="red">codewars.com</p>
 
 ### <div>Using <span color = "yellow">JavaScript</span> & <span color = "#3498db">TypeScript</span></div>
 
