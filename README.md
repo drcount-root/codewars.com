@@ -1,5 +1,6 @@
 <div align = "center">
     <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
+    <br>
     <a color="red" text-decoration = none href="https://www.codewars.com/users/drcount-root" target = "_blank">
         codewars.com
     </a>
