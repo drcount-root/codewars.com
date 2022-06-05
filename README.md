@@ -1,6 +1,6 @@
 <div align = "center" margin-top = "10px">
-    <a href="https://www.codewars.com/users/drcount-root" target = "_blank">
-        <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
+    <a link="https://www.codewars.com/users/drcount-root" target = "_blank">
+        <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>codewars.com
     </a>
     <div color="red" font-size = "50px">codewars.com</div>
 </div>
