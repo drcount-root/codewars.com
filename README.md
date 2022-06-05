@@ -1,4 +1,6 @@
-<img align = "center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 200 height = 200/>
+<div align = "center">
+    <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
+</div>
 
 # <p color="red">codewars.com</p>
 
