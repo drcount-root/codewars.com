@@ -1,4 +1,4 @@
-<div align = "center" style = "display: flex;
+<div style = "display: flex;
 flex-direction: column; justify-content: space-between">
     <div>
         <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
