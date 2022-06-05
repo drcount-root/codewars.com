@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center" display="flex">
     <img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width = 50 height = 50/>
     <span color="red" font-size = "50px">codewars.com</span>
 </div>
